@@ -2,7 +2,7 @@
       </div>
       <footer class="main-footer">
         <div class="text-center">
-        Copyright &copy; 2022 Cekwr.my.id By <a href="https://mrshcode.com">MrshCode</a>
+        Copyright &copy; 2023 CekWR-MLBB By <a href="https://mrsh.dev">MrshDev</a>
         </div>
         </div>
       </footer>
