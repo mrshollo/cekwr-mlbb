@@ -16,6 +16,5 @@
 - **PHP Native**: Backend untuk logika perhitungan win rate.
 - **HTML & CSS**: Membuat tampilan antarmuka.
 - **JavaScript (opsional)**: Untuk meningkatkan interaktivitas pada web.
-- **TailwindCSS**: Framework CSS untuk desain modern dan responsif.
 
 ---
